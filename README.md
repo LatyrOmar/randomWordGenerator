@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # randomwordfirstapp
 
 A new Flutter project.
